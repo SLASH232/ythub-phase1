@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="hPlE4b7E1XMXK49Ww8ve">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V5kql1GeloSDUMKoKPK6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5kql1GeloSDUMKoKPK6-1" target="V5kql1GeloSDUMKoKPK6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5kql1GeloSDUMKoKPK6-1" target="V5kql1GeloSDUMKoKPK6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-1" value="YTHUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5kql1GeloSDUMKoKPK6-2" target="V5kql1GeloSDUMKoKPK6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-2" value="Creator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5kql1GeloSDUMKoKPK6-4" target="V5kql1GeloSDUMKoKPK6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-4" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-6" value="Action Items:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Upload Video&lt;/li&gt;&lt;li&gt;Watch Video&lt;/li&gt;&lt;li&gt;Download Video&lt;/li&gt;&lt;li&gt;Approve Video&lt;/li&gt;&lt;li&gt;Add Comment&lt;/li&gt;&lt;li&gt;Pass Credential&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kql1GeloSDUMKoKPK6-8" value="Action Items:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Upload Video&lt;/li&gt;&lt;li&gt;Watch Video&lt;/li&gt;&lt;li&gt;Download Video&lt;/li&gt;&lt;li&gt;Get Approval Video&lt;/li&gt;&lt;li&gt;Read and pass Comments&lt;/li&gt;&lt;li&gt;Upload approved video on youtube&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="280" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
